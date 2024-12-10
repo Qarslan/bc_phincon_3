@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Students</title>
+    <style>
+        /* #name {
+            width:200px;
+        } */
+
+        label {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="color: blue; text-decoration: underline;">Form Students</h1>
+    <form>
+        <div>
+            <label for="name" style="margin-right: 30px;">Name</label>
+            <input type="text" id="name" placeholder="Fill your name!">
+        </div>
+        <br>
+        <div>
+            <label for="email" style="margin-right: 30px;">Email</label>
+            <input type="email" type="email" placeholder="Fill your email!">
+        </div>
+        <br>
+        <div>
+            <label for="password" style="margin-right: 5px;">Password</label>
+            <input type="password" id="password" class="bc-yelow" placeholder="Fill your password!">
+        </div>
+        <br>
+        <div>
+            <label for="gender" style="margin-right: 20px;" width="200px">Gender</label>
+            <select id="gender">
+                <option value="male">Select your gender</option>
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+            </select>
+        </div>
+        <br>
+        <div>
+            <div>Specialist</div>
+            <input type="radio" id="javascript" name="specialist">
+            <label for="password">Javascript</label>
+            <input type="radio" id="android" name="specialist">
+            <label for="password">Android</label>
+            <input type="radio" id="ios" name="specialist">
+            <label for="password">IOS Swift</label>
+        </div>
+        <br>
+        <div>
+            <button style="width: 200px;">Submit</button>
+        </div>
+    </form>
+</body>
+</html>
