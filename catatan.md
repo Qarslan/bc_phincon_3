@@ -253,3 +253,15 @@ gunakan arrow function
 _name :_ Kalkulator node js
 Gunakan bahasa inggris
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+####
+# DAY 4
+####
+
+Pembuatan project website sederhana
+\\ `Website Shop kaos`
+\\ `Website Organic Store`
+\\ `Website Burger`
+
+_Materi Stash_
